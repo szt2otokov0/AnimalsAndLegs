@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class AnimalsAndLegs {
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
         System.out.println("Adja meg a csirkék számát:");
